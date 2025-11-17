@@ -54,3 +54,4 @@ cd claude-api-server
 
 http://服务器IP:8001/v1/chat/completions
 
+http://服务器IP:8001/v1/models
